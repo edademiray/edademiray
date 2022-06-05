@@ -1,5 +1,5 @@
 
-### Selam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Selam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
  Herkese merhaba, ben eda!<br>
  2016'da Bilgisayar programcılığı ile başladığım yazılım eğitimime şu anda Matematik Ve Bilgisayar bilimleri lisans eğitimim ile devam ediyorum.Teknolojinin her alanına ilgi duymak ile birlikte 1,5 yıl veri biliminde kendimi geliştirmeye çalışırken şu anda frontend alanında ilerlemek istediğime karar verdim ve bu alanda kendimi geliştirmeye çalışıyorum. 
